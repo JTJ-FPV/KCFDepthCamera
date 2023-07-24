@@ -1,4 +1,0 @@
-<launch>
-    <node name="main" pkg="Camera" type="main" output="screen" />
-    <node name="camera_info" pkg="Camera" type="camera_info" output="screen"/>
-</launch>
